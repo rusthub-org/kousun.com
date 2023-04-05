@@ -1,8 +1,8 @@
-site-name = KouSun
-site-slogan = Direct & Free! Intelligent Matchmaking Service Platform
-site-intro = Free services, which aims to match the projects and developers.<br>
-    Let employers and developers communicate directly and freely, no any intermediary.<br>
-    This website is based on the Rust web stacks.
+site-name = Kids@KouSun
+site-slogan = Imagine, Program, Share
+site-intro = Create stories, games, and animations, and share with others.<br>
+    The gift for my daughter, hoping to help all kids who enjoy programming.<br>
+    Always free!
 
 nav-projects = Projects
 nav-projects-tip = Project and its requirements, recruitment condition, documents and cases ...
