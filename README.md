@@ -1,4 +1,4 @@
-# jobs.kousun.com
+# kousun.com
 
 [中文](./README-ZH.md)
 

@@ -1,4 +1,4 @@
-# 蔻隼 | KouSun
+# kousun.com
 
 [English](./README.md)
 
